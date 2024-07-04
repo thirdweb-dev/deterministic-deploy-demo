@@ -10,8 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "thirdweb": "0.0.0-dev-c8216e8089b98a8719e9fdc7634c1818c2ec4095-20240503000818",
-    "dotenv": "^16.0.3"
+    "@thirdweb-dev/engine": "^0.0.12",
+    "dotenv": "^16.0.3",
+    "thirdweb": "latest"
   },
   "devDependencies": {
     "@types/node": "^18.11.17",
