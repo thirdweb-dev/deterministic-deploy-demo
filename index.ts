@@ -49,8 +49,6 @@ const SUPPORTED_TESTNETS: number[] = [
   161221135, // plume-testnet
   5003, // mantle-sepolia-testnet
   78600, // vanguard (vanar testnet)
-  300, // zksync-sepolia
-  302, // zkcandy-sepolia-testnet
   37084624, // skale-nebula-hub-testnet
   1952959480, // lumia-testnet
   31, // rootstock-testnet
@@ -87,7 +85,6 @@ const SUPPORTED_MAINNETS: number[] = [
   7560, // cyber
   690, // redstone
   2040, // vanar
-  324, // zksync
 ];
 
 const TW_DEPLOYER_WALLET = "0xdd99b75f095d0c4d5112aCe938e4e6ed962fb024";
